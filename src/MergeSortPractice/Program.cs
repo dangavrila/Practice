@@ -29,6 +29,28 @@ class Program
             DisplayArray(ref array);
             Console.WriteLine("Done.");
             Console.ReadLine();
+
+            ReshufleArray(ref array);
+            Console.WriteLine("Reshufled array.");
+            DisplayArray(ref array);
+
+            Console.WriteLine("Find maximum subarray.");
+            var maxSubarrayTuple = MaximumSubarray.FindMaxSubarray(ref array, 0, array.Length - 1);
+            Console.WriteLine($"low = {maxSubarrayTuple.Item1}, high = {maxSubarrayTuple.Item2}, max = {maxSubarrayTuple.Item3}");
+
+            Console.WriteLine("Done.");
+        }
+
+        static void ReshufleArray(ref int[]A){
+            var random = new Random();
+            for(int i = 0; i < A.Length - 1; i++){
+                var ri = random.Next(i + 1, A.Length);
+                if(ri != i){
+                    var t = A[i];
+                    A[i] = A[ri];
+                    A[ri] = t;
+                }
+            }
         }
     }
 
