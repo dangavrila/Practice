@@ -10,16 +10,25 @@
  */
 
 const df = require("durable-functions");
+const moment = require("moment")
 
 module.exports = df.orchestrator(function* (context) {
     const outputs = [];
+    const deadline = moment.utc(context.df.currentUtcDateTime).add(20, "s");
+    const activityTask = context.df.waitForExternalEvent("ApprovalActivityFunc");
+    const timeoutTask = context.df.createTimer(deadline.toDate());
 
-    /*
-    * We will call the approval activity with a reject and an approved to simulate both
-    */
+    const winner = yield context.df.Task.any([activityTask, timeoutTask]);
+    if (winner == activityTask){
+        outputs.push(yield context.df.callActivity("ApprovalActivityFunc", "Approved"));
+    }
+    else{
+        outputs.push(yield context.df.callActivity("EscalationActivityFunc", "Head of Department"));
+    }
 
-    outputs.push(yield context.df.callActivity("ApprovalActivityFunc", "Approved"));
-    outputs.push(yield context.df.callActivity("ApprovalActivityFunc", "Rejected"));
+    if (!timeoutTask.isCompleted){
+        timeoutTask.cancel();
+    }
 
     return outputs;
 });
