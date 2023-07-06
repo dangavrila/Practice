@@ -1,4 +1,6 @@
-﻿namespace ListaPrizonieriRazboi
+﻿using Microsoft.Extensions.Logging;
+
+namespace ListaPrizonieriRazboi
 {
     internal class Program
     {
@@ -6,7 +8,19 @@
         {
             var url = @"https://once.mapn.ro/pages/lista-mortilor-de-razboi";
 
-            var webCraweler = new WebCrawler(url);
+            using var loggerFactory = LoggerFactory.Create(builder =>
+            {
+                builder
+                    .AddFilter("Microsoft", LogLevel.Warning)
+                    .AddFilter("System", LogLevel.Warning)
+                    .AddFilter("ListaPrizonieriRazboi.Program", LogLevel.Debug)
+                    .AddConsole();
+            });
+
+            ILogger logger = loggerFactory.CreateLogger<WebCrawler>();
+            logger.LogInformation($"Starting downloading from:\n{url}");
+
+            var webCraweler = new WebCrawler(url, logger);
             await webCraweler.DownloadFiles("Files");
         }
     }

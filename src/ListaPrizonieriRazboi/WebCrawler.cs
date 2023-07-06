@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Net.Http;
+﻿using Microsoft.Extensions.Logging;
 using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 using System.Web;
 
 namespace ListaPrizonieriRazboi
@@ -13,13 +8,15 @@ namespace ListaPrizonieriRazboi
     public class WebCrawler
     {
         private readonly string baseURL;
+        private readonly ILogger logger;
         private static readonly HttpClient httpClient = new HttpClient();
 
-        public WebCrawler(string baseURL)
+        public WebCrawler(string baseURL, ILogger logger)
         {
             this.baseURL = baseURL;
+            this.logger = logger;
             httpClient.BaseAddress = new Uri(baseURL);
-            httpClient.DefaultRequestHeaders.Add("User-Agent", @"PostmanRuntime/7.32.3");
+            httpClient.DefaultRequestHeaders.Add("User-Agent", @"ConsoleAppMicrosoft.NET");
             httpClient.DefaultRequestHeaders.Add("Accept", "*/*");
             httpClient.DefaultRequestHeaders.Add("Connection", "keep-alive");
         }
@@ -27,7 +24,7 @@ namespace ListaPrizonieriRazboi
         public async Task<string> DownloadHtml()
         {
             using HttpResponseMessage responseMessage = await httpClient.GetAsync(baseURL);
-            
+
 
             responseMessage.EnsureSuccessStatusCode()
                 .WriteRequestToConsole();
@@ -55,29 +52,40 @@ namespace ListaPrizonieriRazboi
             if (!di.Exists)
                 di.Create();
 
+            var fileCount = 0;
+
             foreach (var link in linksSet)
             {
-                await Task.Delay(5000);
-                Console.ForegroundColor = ConsoleColor.White;
-                Console.WriteLine(link);
+                logger.LogInformation(link);
+                await Task.Delay(3000);
                 var linkUri = new Uri(link);
-                var linkUrlDecoded = HttpUtility.UrlDecode(link);
+                var linkUrlDecoded = HttpUtility.UrlDecode(link, System.Text.Encoding.UTF8);
                 var fileName = linkUrlDecoded.Substring(linkUrlDecoded.LastIndexOf('/') + 1).Trim();
                 var filePath = Path.Combine(di.FullName, fileName);
-                Console.WriteLine($"Saving to disk {filePath}");
-                try
+                var newFileFi = new FileInfo(filePath);
+                if (!newFileFi.Exists)
                 {
-                    await using Stream responseStream = await httpClient.GetStreamAsync(linkUri);
-                    using var fs = new FileStream(filePath, FileMode.Create);
-                    await responseStream.CopyToAsync(fs);
-                    fs.Close();
-                    Console.WriteLine();
+                    fileCount++;
+                    logger.LogInformation($"Saving to disk {filePath}, file count: {fileCount}.");
+                    try
+                    {
+                        await using Stream responseStream = await httpClient.GetStreamAsync(linkUri);
+                        using var fs = new FileStream(filePath, FileMode.Create);
+                        await responseStream.CopyToAsync(fs);
+                        fs.Close();
+                    }
+                    catch (HttpRequestException)
+                    {
+                        logger.LogError($"Could not download file {fileName}.");
+                    }
                 }
-                catch(HttpRequestException) {
-                    Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine($"Could not download file URI {linkUri}");
+                else
+                {
+                    logger.LogInformation($"File \"{filePath}\" already exists.");
                 }
             }
+
+            logger.LogInformation($"Completed downloading {linksSet.Count}.");
         }
 
         private async Task<string> ExtractLinks()
