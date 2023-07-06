@@ -1,258 +1,466 @@
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20T%C3%A2rnauca%2C%20raionul%20Her%C8%9Ba%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în comuna Târnauca, raionul Her?a, Ucraina.xls
-
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Holoskov%20(regiunea%20Vinni%C8%9Ba%2C%20Ucraina)%2C%20%C3%AEn%20al%20Doilea%20R%C4%83zboi%20Mondial.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în satul Holoskov (regiunea Vinni?a, Ucraina), în al Doilea Razboi Mondial.xls
-
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/2022_Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20L%C4%83pu%C8%99na%2C%20raionul%20H%C3%A2nce%C8%99ti%2C%20Ucraina%2C.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\2022_Evidenta mortilor de razboi români, identificati nominal, înhumati în comuna Lapu?na, raionul Hânce?ti, Ucraina,.xls
-
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20Gura%20C%C4%83inarului%2C%20raionul%20Flore%C8%99ti%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în comuna Gura Cainarului, raionul Flore?ti, Republica Moldova.xls
-
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Opaci%2C%20raionul%20C%C4%83u%C8%99eni%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în satul Opaci, raionul Cau?eni, Republica Moldova.xls
-
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/2023_Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Carahasani%20(raionul%20%C8%98tefan%20Vod%C4%83%2C%20Republica%20Moldova).xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\2023_Evidenta mortilor de razboi români, identificati nominal, înhumati în satul Carahasani (raionul ?tefan Voda, Republica Moldova).xls
-
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20Zg%C4%83rde%C8%99ti%2C%20raionul%20Telene%C8%99ti%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în comuna Zgarde?ti, raionul Telene?ti, Republica Moldova.xls
-
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Baimaclia%2C%20raionul%20C%C4%83u%C8%99eni%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în satul Baimaclia, raionul Cau?eni, Republica Moldova.xls
-
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20ora%C8%99ul%20Flore%C8%99ti%20(raionul%20Flore%C8%99ti%2C%20Republica%20Moldova)%2C%20%C3%AEn%20al%20Doilea%20R%C4%83zboi%20Mondial.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în ora?ul Flore?ti (raionul Flore?ti, Republica Moldova), în al Doilea Razboi Mondial.xls
-
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20pe%20raza%20satului%20Leca%2C%20raionul%20Cantemir%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati pe raza satului Leca, raionul Cantemir, Republica Moldova.xls
-
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20pe%20raza%20comunei%20Verejeni%2C%20regiunea%20Ocni%C8%9Ba%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati pe raza comunei Verejeni, regiunea Ocni?a, Republica Moldova.xls
-
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20pe%20raza%20comunei%20S%C4%83rata%20Galben%C4%83%2C%20raionul%20H%C3%A2nce%C5%9Fti%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati pe raza comunei Sarata Galbena, raionul Hâncesti, Republica Moldova.xls
-
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Purcari%2C%20raionul%20%C5%9Etefan-Vod%C4%83%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în satul Purcari, raionul Stefan-Voda, Republica Moldova.xls
-
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20localitatile%20Beleusovca%20si%20Kozlov%2C%20regiunea%20Cernauti%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în localitatile Beleusovca si Kozlov, regiunea Cernauti, Ucraina.xls
-
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20pe%20raza%20satului%20Jabokrici%2C%20regiunea%20Vinni%C8%9Ba%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati pe raza satului Jabokrici, regiunea Vinni?a, Ucraina.xls
-
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/2022_Lista%20cet%C4%83%C8%9Benilor%20rom%C3%A2ni%20de%20etnie%20german%C4%83%20mor%C8%9Bi%20%C3%AEn%20al%20Doilea%20R%C4%83zboi%20Mondial%20%C3%AEn%20cadrul%20unor%20unit%C4%83%C8%9Bi%20militare%20germane.xlsx
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\2022_Lista ceta?enilor români de etnie germana mor?i în al Doilea Razboi Mondial în cadrul unor unita?i militare germane.xlsx
-
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Evidenta%20mortilor%20de%20razboi%20romani%20de%20pe%20teritoriul%20Cehiei%20si%20Slovaciei.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi romani de pe teritoriul Cehiei si Slovaciei.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi romani de pe teritoriul Cehiei si Slovaciei.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20eroilor%20romani%20inhumati%20in%20cimitirul%20militar%20Ghencea%2C%20municipiul%20Bucuresti%2C%201941-1945.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista eroilor romani inhumati in cimitirul militar Ghencea, municipiul Bucuresti, 1941-1945.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista eroilor romani inhumati in cimitirul militar Ghencea%2C municipiul Bucuresti%2C 1941-1945.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Purcari%2C%20raionul%20%C5%9Etefan-Vod%C4%83%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în satul Purcari, raionul Stefan-Voda, Republica Moldova.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români%2C identificati nominal%2C înhumati în satul Purcari%2C raionul Stefan-Voda%2C Republica Moldova.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Cioburciu%2C%20raionul%20%C5%9Etefan-Vod%C4%83%20%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în satul Cioburciu, raionul Stefan-Voda , Republica Moldova.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români%2C identificati nominal%2C înhumati în satul Cioburciu%2C raionul Stefan-Voda %2C Republica Moldova.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Evidenta%20mortilor%20de%20razboi%20romani%20inhumati%20in%20satul%20Palanca%2C%20raionu%20Stefan%20Voda%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi romani inhumati in satul Palanca, raionu Stefan Voda, Republica Moldova.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi romani inhumati in satul Palanca%2C raionu Stefan Voda%2C Republica Moldova.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Fe%C5%9Fteli%C5%A3a%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista mortilor de razboi români, identificati nominal, înhumati în satul Festelita, Republica Moldova.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista mortilor de razboi români%2C identificati nominal%2C înhumati în satul Festelita%2C Republica Moldova.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20municipiul%20Chi%C5%9Fin%C4%83u%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români înhumati în municipiul Chisinau, Republica Moldova.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români înhumati în municipiul Chisinau%2C Republica Moldova.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20municipiul%20Tiraspol%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista mortilor de razboi români, identificati nominal, înhumati în municipiul Tiraspol, Republica Moldova.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista mortilor de razboi români%2C identificati nominal%2C înhumati în municipiul Tiraspol%2C Republica Moldova.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20Cimitirul%20eroilor%20din%20satul%20Tab%C4%83ra%2C%20raionul%20Orhei%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români înhumati în Cimitirul eroilor din satul Tabara, raionul Orhei, Republica Moldova.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români înhumati în Cimitirul eroilor din satul Tabara%2C raionul Orhei%2C Republica Moldova.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20Cimitirul%20de%20onoare%20din%20ora%C5%9Ful%20R%C3%A2%C5%9Fcani%2C%20raionul%20R%C3%A2%C5%9Fcani%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români înhumati în Cimitirul de onoare din orasul Râscani, raionul Râscani, Republica Moldova.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români înhumati în Cimitirul de onoare din orasul Râscani%2C raionul Râscani%2C Republica Moldova.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20Cimitirul%20de%20onoare%20din%20ora%C5%9Ful%20Orhei%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista mortilor de razboi români înhumati în Cimitirul de onoare din orasul Orhei, Republica Moldova.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista mortilor de razboi români înhumati în Cimitirul de onoare din orasul Orhei%2C Republica Moldova.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20eroilor%20inhumati%20in%20Cimitirul%20de%20onoare%20din%20satul%20Varzaresti%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista eroilor inhumati in Cimitirul de onoare din satul Varzaresti Republica Moldova.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista eroilor inhumati in Cimitirul de onoare din satul Varzaresti Republica Moldova.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20eroilor%20inhumati%20in%20cimitirul%20de%20onoare%20romanesc%20de%20la%20Tiganca%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista eroilor inhumati in cimitirul de onoare romanesc de la Tiganca, Republica Moldova.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista eroilor inhumati in cimitirul de onoare romanesc de la Tiganca%2C Republica Moldova.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mortilor%20de%20razboi%20romani%20inhumati%20la%20Cania%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista mortilor de razboi romani inhumati la Cania, Republica Moldova.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista mortilor de razboi romani inhumati la Cania%2C Republica Moldova.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20eroilor%20romani%20%C3%AEnhumati%20in%20cimitirul%20eroilor%20General%20Dragalina%20-%20Tighina%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista eroilor romani înhumati in cimitirul eroilor General Dragalina - Tighina, Republica Moldova.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista eroilor romani înhumati in cimitirul eroilor General Dragalina - Tighina%2C Republica Moldova.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Evidenta%20mortilor%20de%20razboi%20romani%20inhumati%20in%20Cimitirul%20de%20onoare%20din%20satul%20Micleuseni.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi romani inhumati in Cimitirul de onoare din satul Micleuseni.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi romani inhumati in Cimitirul de onoare din satul Micleuseni.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mortilor%20de%20razboi%20inhumati%20la%20Neculaieuca%2C%20Morozeni%20si%20Mana.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista mortilor de razboi inhumati la Neculaieuca, Morozeni si Mana.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista mortilor de razboi inhumati la Neculaieuca%2C Morozeni si Mana.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Evidenta%20mortilor%20de%20razboi%20romani%2C%20inhumati%20in%20Cimitirul%20de%20onoare%20din%20comuna%20Stoicani%2C%20raionul%20Soroca%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi romani, inhumati in Cimitirul de onoare din comuna Stoicani, raionul Soroca, Republica Moldova.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi romani%2C inhumati in Cimitirul de onoare din comuna Stoicani%2C raionul Soroca%2C Republica Moldova.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20Cimitirul%20eroilor%20din%20satul%20Nem%C5%A3eni%2C%20raionul%20H%C3%A2nce%C5%9Fti%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, înhumati în Cimitirul eroilor din satul Nemteni, raionul Hâncesti, Republica Moldova.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români%2C înhumati în Cimitirul eroilor din satul Nemteni%2C raionul Hâncesti%2C Republica Moldova.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20R%C4%83sc%C4%83ie%C5%A3i%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista mortilor de razboi români, identificati nominal, înhumati în comuna Rascaieti, Republica Moldova.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista mortilor de razboi români%2C identificati nominal%2C înhumati în comuna Rascaieti%2C Republica Moldova.xls
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20Volo%C8%99cova%2C%20regiunea%20Cernauti%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în comuna Volo?cova, regiunea Cernauti, Ucraina.xls
-
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20Secureni%2C%20regiunea%20Cernauti%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în comuna Secureni, regiunea Cernauti, Ucraina.xls
-
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20pe%20raza%20ora%C8%99ului%20Hotin%2C%20regiunea%20Cern%C4%83u%C8%9Bi%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati pe raza ora?ului Hotin, regiunea Cernau?i, Ucraina.xls
-
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20Fe%C5%9Fterovo%2C%20raionul%20Razdelnianski%20regiunea%20Odessa%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în comuna Festerovo, raionul Razdelnianski regiunea Odessa, Ucraina.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români%2C identificati nominal%2C înhumati în comuna Festerovo%2C raionul Razdelnianski regiunea Odessa%2C Ucraina.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Plinca%2C%20raionul%20Beliaevski%20regiunea%20Odessa%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în satul Plinca, raionul Beliaevski regiunea Odessa, Ucraina.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români%2C identificati nominal%2C înhumati în satul Plinca%2C raionul Beliaevski regiunea Odessa%2C Ucraina.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20ora%C5%9Ful%20Beliaevka%2C%20regiunea%20Odessa%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în orasul Beliaevka, regiunea Odessa, Ucraina.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români%2C identificati nominal%2C înhumati în orasul Beliaevka%2C regiunea Odessa%2C Ucraina.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20Vasilevka%2C%20regiunea%20Odessa%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista mortilor de razboi români, identificati nominal, înhumati în comuna Vasilevka, regiunea Odessa, Ucraina.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista mortilor de razboi români%2C identificati nominal%2C înhumati în comuna Vasilevka%2C regiunea Odessa%2C Ucraina.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20Kremidovka%2C%20regiunea%20Odessa%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista mortilor de razboi români, identificati nominal, înhumati în comuna Kremidovka, regiunea Odessa, Ucraina.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista mortilor de razboi români%2C identificati nominal%2C înhumati în comuna Kremidovka%2C regiunea Odessa%2C Ucraina.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20localitatea%20Schuli%2C%20%20Peninsula%20Crimeea.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în localitatea Schuli,  Peninsula Crimeea.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români%2C identificati nominal%2C înhumati în localitatea Schuli%2C  Peninsula Crimeea.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Crocmaz%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în satul Crocmaz, Republica Moldova.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români%2C identificati nominal%2C înhumati în satul Crocmaz%2C Republica Moldova.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Uppa%2C%20Peninsula%20Crimeea.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în satul Uppa, Peninsula Crimeea.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români%2C identificati nominal%2C înhumati în satul Uppa%2C Peninsula Crimeea.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20Klein%20Liebental%2C%20regiunea%20Odessa%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în comuna Klein Liebental, regiunea Odessa, Ucraina.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români%2C identificati nominal%2C înhumati în comuna Klein Liebental%2C regiunea Odessa%2C Ucraina.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20Gross%20Liebental.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista mortilor de razboi români, identificati nominal, înhumati în comuna Gross Liebental.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista mortilor de razboi români%2C identificati nominal%2C înhumati în comuna Gross Liebental.xls
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20Kozlov%2C%20regiunea%20Vinni%C8%9Ba%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în comuna Kozlov, regiunea Vinni?a, Ucraina.xls
-
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satele%20Savinti%20si%20Vierhovka%2C%20regiunea%20Vinni%C8%9Ba%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în satele Savinti si Vierhovka, regiunea Vinni?a, Ucraina.xls
-
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20Berezeni%2C%20raionul%20Beliaevski%20regiunea%20Odessa%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români înhumati în comuna Berezeni, raionul Beliaevski regiunea Odessa, Ucraina.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români înhumati în comuna Berezeni%2C raionul Beliaevski regiunea Odessa%2C Ucraina.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20Malaia%20Belozerka%2C%20raionul%20Vasilevski%2C%20regiunea%20Zaporojie%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista mortilor de razboi români, identificati nominal, înhumati în comuna Malaia Belozerka, raionul Vasilevski, regiunea Zaporojie, Ucraina.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista mortilor de razboi români%2C identificati nominal%2C înhumati în comuna Malaia Belozerka%2C raionul Vasilevski%2C regiunea Zaporojie%2C Ucraina.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20localit%C4%83%C5%A3ile%20Sudak%20%C5%9Fi%20Tarakta%C5%9F%20(raionul%20Sudakski%20Gorsovet%2C%20Crimeea)%2C%20%C3%AEn%20al%20Doilea%20R%C4%83zboi%20Mondial.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români înhumati în localitatile Sudak si Taraktas (raionul Sudakski Gorsovet, Crimeea), în al Doilea Razboi Mondial.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români înhumati în localitatile Sudak si Taraktas (raionul Sudakski Gorsovet%2C Crimeea)%2C în al Doilea Razboi Mondial.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20cimitirul%20comunei%20Mihailovka%2C%20regiunea%20Zaporojie%2C%20Ucraina..xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români înhumati în cimitirul comunei Mihailovka, regiunea Zaporojie, Ucraina..xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români înhumati în cimitirul comunei Mihailovka%2C regiunea Zaporojie%2C Ucraina..xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20Cimitirul%20eroilor%20din%20localitatea%20Bahcisarai%20(raionul%20Bahcisaraiski%2C%20Crimeea)%2C%20%C3%AEn%20al%20Doilea%20R%C4%83zboi%20Mondial.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români înhumati în Cimitirul eroilor din localitatea Bahcisarai (raionul Bahcisaraiski, Crimeea), în al Doilea Razboi Mondial.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români înhumati în Cimitirul eroilor din localitatea Bahcisarai (raionul Bahcisaraiski%2C Crimeea)%2C în al Doilea Razboi Mondial.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20Cimitirul%20eroilor%20din%20satul%20Bikeci%2C%20raionul%20Leninski%20Crimeea%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în Cimitirul eroilor din satul Bikeci, raionul Leninski Crimeea, Ucraina.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români%2C identificati nominal%2C înhumati în Cimitirul eroilor din satul Bikeci%2C raionul Leninski Crimeea%2C Ucraina.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20localitatea%20Karlovka%2C%20raionul%20Kirovski%2C%20Crimeea%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în localitatea Karlovka, raionul Kirovski, Crimeea, Ucraina.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români%2C identificati nominal%2C înhumati în localitatea Karlovka%2C raionul Kirovski%2C Crimeea%2C Ucraina.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Artelnoje%2C%20regiunea%20Harkov%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, înhumati în satul Artelnoje, regiunea Harkov, Ucraina.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români%2C înhumati în satul Artelnoje%2C regiunea Harkov%2C Ucraina.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Freudental%2C%20regiunea%20Odessa%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români înhumati în satul Freudental, regiunea Odessa, Ucraina.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români înhumati în satul Freudental%2C regiunea Odessa%2C Ucraina.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Ojevo%2C%20regiunea%20Cern%C4%83u%C5%A3i%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români  înhumati în satul Ojevo, regiunea Cernauti, Ucraina.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români  înhumati în satul Ojevo%2C regiunea Cernauti%2C Ucraina.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%20%C3%AEnhuma%C5%A3i%20pe%20teritoriul%20localit%C4%83%C5%A3ilor%20Spiridonovka%20%C5%9Fi%20Bujalik%2C%20regiunea%20Odessa%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români  înhumati pe teritoriul localitatilor Spiridonovka si Bujalik, regiunea Odessa, Ucraina.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români  înhumati pe teritoriul localitatilor Spiridonovka si Bujalik%2C regiunea Odessa%2C Ucraina.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%C3%AEnhuma%C5%A3i%20pe%20teritoriul%20satului%20Leninthal%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista mortilor de razboi români înhumati pe teritoriul satului Leninthal, Ucraina.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista mortilor de razboi români înhumati pe teritoriul satului Leninthal%2C Ucraina.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mortilor%20de%20razboi%20romani%20%C3%AEnhumati%20pe%20teritoriul%20comunei%20Vacarjani%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista mortilor de razboi romani înhumati pe teritoriul comunei Vacarjani, Ucraina.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista mortilor de razboi romani înhumati pe teritoriul comunei Vacarjani%2C Ucraina.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Evidenta%20mortilor%20de%20razboi%20romani%2C%20inhumati%20in%20municipiul%20Cernauti%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi romani, inhumati in municipiul Cernauti, Ucraina.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi romani%2C inhumati in municipiul Cernauti%2C Ucraina.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mortilor%20de%20razboi%20romani%20-%20Severinovka%2C%20raion%20Ivanovski%2C%20regiunea%20Odessa%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista mortilor de razboi romani - Severinovka, raion Ivanovski, regiunea Odessa, Ucraina.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista mortilor de razboi romani - Severinovka%2C raion Ivanovski%2C regiunea Odessa%2C Ucraina.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mortilor%20de%20razboi%20-%20%20cimitirul%20eroilor%20din%20Stary%20Krim%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista mortilor de razboi -  cimitirul eroilor din Stary Krim, Ucraina.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista mortilor de razboi -  cimitirul eroilor din Stary Krim%2C Ucraina.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Primul%20Razboi%20Mondial/2019_%20Petersthal%20(Ucraina).xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\2019_ Petersthal (Ucraina).xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Primul Razboi Mondial/2019_ Petersthal (Ucraina).xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mor%C8%9Bilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20%C3%AEnhuma%C8%9Bi%20pe%20teritoriul%20comunei%20Vigoda%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista mor?ilor de razboi români, înhuma?i pe teritoriul comunei Vigoda, Ucraina.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista mor?ilor de razboi români%2C înhuma?i pe teritoriul comunei Vigoda%2C Ucraina.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20cimitirul%20comunei%20Akimovka%2C%20regiunea%20Zaporojie%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români  înhumati în cimitirul comunei Akimovka, regiunea Zaporojie, Ucraina.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români  înhumati în cimitirul comunei Akimovka%2C regiunea Zaporojie%2C Ucraina.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20morti%20de%20razboi%20Rossoska%201999_2015_2016_2017_2018.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista morti de razboi Rossoska 1999_2015_2016_2017_2018.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista morti de razboi Rossoska 1999_2015_2016_2017_2018.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20c%C4%83zu%C5%A3i%20%C3%AEn%20lupta%20de%20la%20Oarba%20de%20Mure%C5%9F%20.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, cazuti în lupta de la Oarba de Mures .xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români%2C identificati nominal%2C cazuti în lupta de la Oarba de Mures .xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mortilor%20de%20razboi%20romani%20-%20cimitirul%20eroilor%20din%20municipiul%20Targu%20Mures%2C%20judetul%20Mures.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista mortilor de razboi romani - cimitirul eroilor din municipiul Targu Mures, judetul Mures.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista mortilor de razboi romani - cimitirul eroilor din municipiul Targu Mures%2C judetul Mures.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mortilor%20de%20razboi%20romani%20-%20cimitirul%20Rulikovski%2C%20judetul%20Bihor.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista mortilor de razboi romani - cimitirul Rulikovski, judetul Bihor.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista mortilor de razboi romani - cimitirul Rulikovski%2C judetul Bihor.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mortilor%20de%20razboi%20romani%20-%20cimitirul%20Olosig%2C%20judetul%20Bihor.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista mortilor de razboi romani - cimitirul Olosig, judetul Bihor.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista mortilor de razboi romani - cimitirul Olosig%2C judetul Bihor.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mortilor%20de%20razboi%20romani%20-%20Parcela%20eroilor%20din%20cimitirul%20Pomenirea%2C%20judetul%20Arad.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista mortilor de razboi romani - Parcela eroilor din cimitirul Pomenirea, judetul Arad.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista mortilor de razboi romani - Parcela eroilor din cimitirul Pomenirea%2C judetul Arad.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mortilor%20de%20razboi%20romani%20-%20parcela%20eroilor%20romani%20din%20municipiul%20Carei%2C%20judetul%20Satu%20Mare.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista mortilor de razboi romani - parcela eroilor romani din municipiul Carei, judetul Satu Mare.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista mortilor de razboi romani - parcela eroilor romani din municipiul Carei%2C judetul Satu Mare.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20militarilor%20romani%20-%20lagarul%20Karaganda%2C%20Kazahstan.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Lista militarilor romani - lagarul Karaganda, Kazahstan.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Lista militarilor romani - lagarul Karaganda%2C Kazahstan.xls
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Mor%C8%9Bi%20de%20r%C4%83zboi%20din%20Primul%20si%20Al%20Doilea%20R%C4%83zboi%20Mondial%2C%20%C3%AEnhuma%C8%9Bi%20%C3%AEn%20parcela%20de%20onoare%20din%20Cimitirul%20Central%20din%20municipiul%20Zal%C4%83u%2C%20jude%C8%9Bul%20S%C4%83laj%20(strada%20Florilor%2066).xlsx
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Mor?i de razboi din Primul si Al Doilea Razboi Mondial, înhuma?i în parcela de onoare din Cimitirul Central din municipiul Zalau, jude?ul Salaj (strada Florilor 66).xlsx
-Could not download file URI https://once.mapn.ro/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Mor?i de razboi din Primul si Al Doilea Razboi Mondial%2C înhuma?i în parcela de onoare din Cimitirul Central din municipiul Zalau%2C jude?ul Salaj (strada Florilor 66).xlsx
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/2018_Lista%20mortilor%20de%20razboi%20lagare%20NKVD.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\2018_Lista mortilor de razboi lagare NKVD.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/2018_Lista mortilor de razboi lagare NKVD.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20din%20al%20Doilea%20R%C4%83zboi%20Mondial%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20municipiul%20Odessa%2C%20Ucraina.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români din al Doilea Razboi Mondial, înhumati în municipiul Odessa, Ucraina.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români din al Doilea Razboi Mondial%2C înhumati în municipiul Odessa%2C Ucraina.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20nominal%C4%83%20a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20germani%20%C5%9Fi%20sovietici%2Ccentraliza%C5%A3i%20%C3%AEn%20Cimitirul%20eroilor%20din%20ora%C5%9Ful%20Podu%20Iloaiei.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta nominala a mortilor de razboi români, germani si sovietici,centralizati în Cimitirul eroilor din orasul Podu Iloaiei.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta nominala a mortilor de razboi români%2C germani si sovietici%2Ccentralizati în Cimitirul eroilor din orasul Podu Iloaiei.xls
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20curtea%20bisericii%20din%20comuna%20Soci%2C%20judetul%20Ia%C5%9Fi.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români identificati nominal, înhumati în curtea bisericii din comuna Soci, judetul Iasi.xls
-Could not download file URI https://once.mapn.ro/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români identificati nominal%2C înhumati în curtea bisericii din comuna Soci%2C judetul Iasi.xls
-https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20Cimitirul%20eroilor%20Bolovani%20din%20municipiul%20Ploie%C5%9Fti%2C%20%C3%AEn%20perioada%201941-1944.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, înhumati în Cimitirul eroilor Bolovani din municipiul Ploiesti, în perioada 1941-1944.xls
-Could not download file URI https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români%2C înhumati în Cimitirul eroilor Bolovani din municipiul Ploiesti%2C în perioada 1941-1944.xls
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20ora%C8%99ul%20H%C3%A2nce%C8%99ti%20(raion%20H%C3%A2nce%C8%99ti%2C%20Republica%20Moldova.xls
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în ora?ul Hânce?ti (raion Hânce?ti, Republica Moldova.xls
-Could not download file URI https://once.mapn.ro/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Evidenta mortilor de razboi români%2C identificati nominal%2C înhumati în ora?ul Hânce?ti (raion Hânce?ti%2C Republica Moldova.xls
-https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C8%9Ba%20mor%C8%9Bilor%20de%20r%C4%83zboi%20%C3%AEnhuma%C8%9Bi%20%C3%AEn%20Cimitirul%20eroilor%20din%20municipiul%20Alba%20Iulia.xlsx
-Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\bin\Debug\net6.0\Files\Eviden?a mor?ilor de razboi înhuma?i în Cimitirul eroilor din municipiul Alba Iulia.xlsx
-Could not download file URI https://once.mapn.ro/webroot/fileslib/upload/files/Lista mortilor de razboi/Al Doilea Razboi Mondial/Eviden?a mor?ilor de razboi înhuma?i în Cimitirul eroilor din municipiul Alba Iulia.xlsx
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Starting downloading from:
+https://once.mapn.ro/pages/lista-mortilor-de-razboi
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20T%C3%A2rnauca%2C%20raionul%20Her%C8%9Ba%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în comuna Târnauca, raionul Her?a, Ucraina.xls, file count: 1.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Holoskov%20(regiunea%20Vinni%C8%9Ba%2C%20Ucraina)%2C%20%C3%AEn%20al%20Doilea%20R%C4%83zboi%20Mondial.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în satul Holoskov (regiunea Vinni?a, Ucraina), în al Doilea Razboi Mondial.xls, file count: 2.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/2022_Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20L%C4%83pu%C8%99na%2C%20raionul%20H%C3%A2nce%C8%99ti%2C%20Ucraina%2C.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\2022_Evidenta mortilor de razboi români, identificati nominal, înhumati în comuna Lapu?na, raionul Hânce?ti, Ucraina,.xls, file count: 3.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20Gura%20C%C4%83inarului%2C%20raionul%20Flore%C8%99ti%2C%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în comuna Gura Cainarului, raionul Flore?ti, Republica Moldova.xls, file count: 4.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Opaci%2C%20raionul%20C%C4%83u%C8%99eni%2C%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în satul Opaci, raionul Cau?eni, Republica Moldova.xls, file count: 5.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/2023_Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Carahasani%20(raionul%20%C8%98tefan%20Vod%C4%83%2C%20Republica%20Moldova).xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\2023_Evidenta mortilor de razboi români, identificati nominal, înhumati în satul Carahasani (raionul ?tefan Voda, Republica Moldova).xls, file count: 6.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20Zg%C4%83rde%C8%99ti%2C%20raionul%20Telene%C8%99ti%2C%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în comuna Zgarde?ti, raionul Telene?ti, Republica Moldova.xls, file count: 7.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Baimaclia%2C%20raionul%20C%C4%83u%C8%99eni%2C%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în satul Baimaclia, raionul Cau?eni, Republica Moldova.xls, file count: 8.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20ora%C8%99ul%20Flore%C8%99ti%20(raionul%20Flore%C8%99ti%2C%20Republica%20Moldova)%2C%20%C3%AEn%20al%20Doilea%20R%C4%83zboi%20Mondial.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în ora?ul Flore?ti (raionul Flore?ti, Republica Moldova), în al Doilea Razboi Mondial.xls, file count: 9.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20pe%20raza%20satului%20Leca%2C%20raionul%20Cantemir%2C%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati pe raza satului Leca, raionul Cantemir, Republica Moldova.xls, file count: 10.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20pe%20raza%20comunei%20Verejeni%2C%20regiunea%20Ocni%C8%9Ba%2C%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati pe raza comunei Verejeni, regiunea Ocni?a, Republica Moldova.xls, file count: 11.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20pe%20raza%20comunei%20S%C4%83rata%20Galben%C4%83%2C%20raionul%20H%C3%A2nce%C5%9Fti%2C%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati pe raza comunei Sarata Galbena, raionul Hâncesti, Republica Moldova.xls, file count: 12.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Purcari%2C%20raionul%20%C5%9Etefan-Vod%C4%83%2C%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în satul Purcari, raionul Stefan-Voda, Republica Moldova.xls, file count: 13.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20localitatile%20Beleusovca%20si%20Kozlov%2C%20regiunea%20Cernauti%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în localitatile Beleusovca si Kozlov, regiunea Cernauti, Ucraina.xls, file count: 14.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20pe%20raza%20satului%20Jabokrici%2C%20regiunea%20Vinni%C8%9Ba%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati pe raza satului Jabokrici, regiunea Vinni?a, Ucraina.xls, file count: 15.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/2022_Lista%20cet%C4%83%C8%9Benilor%20rom%C3%A2ni%20de%20etnie%20german%C4%83%20mor%C8%9Bi%20%C3%AEn%20al%20Doilea%20R%C4%83zboi%20Mondial%20%C3%AEn%20cadrul%20unor%20unit%C4%83%C8%9Bi%20militare%20germane.xlsx
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\2022_Lista ceta?enilor români de etnie germana mor?i în al Doilea Razboi Mondial în cadrul unor unita?i militare germane.xlsx, file count: 16.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Evidenta%20mortilor%20de%20razboi%20romani%20de%20pe%20teritoriul%20Cehiei%20si%20Slovaciei.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi romani de pe teritoriul Cehiei si Slovaciei.xls, file count: 17.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi romani de pe teritoriul Cehiei si Slovaciei.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20eroilor%20romani%20inhumati%20in%20cimitirul%20militar%20Ghencea%2C%20municipiul%20Bucuresti%2C%201941-1945.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista eroilor romani inhumati in cimitirul militar Ghencea, municipiul Bucuresti, 1941-1945.xls, file count: 18.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista eroilor romani inhumati in cimitirul militar Ghencea, municipiul Bucuresti, 1941-1945.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Purcari%2C%20raionul%20%C5%9Etefan-Vod%C4%83%2C%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      File "C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în satul Purcari, raionul Stefan-Voda, Republica Moldova.xls" already exists.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Cioburciu%2C%20raionul%20%C5%9Etefan-Vod%C4%83%20%2C%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în satul Cioburciu, raionul Stefan-Voda , Republica Moldova.xls, file count: 19.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români, identificati nominal, înhumati în satul Cioburciu, raionul Stefan-Voda , Republica Moldova.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Evidenta%20mortilor%20de%20razboi%20romani%20inhumati%20in%20satul%20Palanca%2C%20raionu%20Stefan%20Voda%2C%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi romani inhumati in satul Palanca, raionu Stefan Voda, Republica Moldova.xls, file count: 20.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi romani inhumati in satul Palanca, raionu Stefan Voda, Republica Moldova.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Fe%C5%9Fteli%C5%A3a%2C%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista mortilor de razboi români, identificati nominal, înhumati în satul Festelita, Republica Moldova.xls, file count: 21.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista mortilor de razboi români, identificati nominal, înhumati în satul Festelita, Republica Moldova.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20municipiul%20Chi%C5%9Fin%C4%83u%2C%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români înhumati în municipiul Chisinau, Republica Moldova.xls, file count: 22.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români înhumati în municipiul Chisinau, Republica Moldova.xls.info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20municipiul%20Tiraspol%2C%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista mortilor de razboi români, identificati nominal, înhumati în municipiul Tiraspol, Republica Moldova.xls, file count: 23.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista mortilor de razboi români, identificati nominal, înhumati în municipiul Tiraspol, Republica Moldova.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20Cimitirul%20eroilor%20din%20satul%20Tab%C4%83ra%2C%20raionul%20Orhei%2C%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români înhumati în Cimitirul eroilor din satul Tabara, raionul Orhei, Republica Moldova.xls, file count: 24.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români înhumati în Cimitirul eroilor din satul Tabara, raionul Orhei, Republica Moldova.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20Cimitirul%20de%20onoare%20din%20ora%C5%9Ful%20R%C3%A2%C5%9Fcani%2C%20raionul%20R%C3%A2%C5%9Fcani%2C%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români înhumati în Cimitirul de onoare din orasul Râscani, raionul Râscani, Republica Moldova.xls, file count: 25.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români înhumati în Cimitirul de onoare din orasul Râscani, raionul Râscani, Republica Moldova.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20Cimitirul%20de%20onoare%20din%20ora%C5%9Ful%20Orhei%2C%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista mortilor de razboi români înhumati în Cimitirul de onoare din orasul Orhei, Republica Moldova.xls, file count: 26.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista mortilor de razboi români înhumati în Cimitirul de onoare din orasul Orhei, Republica Moldova.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20eroilor%20inhumati%20in%20Cimitirul%20de%20onoare%20din%20satul%20Varzaresti%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista eroilor inhumati in Cimitirul de onoare din satul Varzaresti Republica Moldova.xls, file count: 27.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista eroilor inhumati in Cimitirul de onoare din satul Varzaresti Republica Moldova.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20eroilor%20inhumati%20in%20cimitirul%20de%20onoare%20romanesc%20de%20la%20Tiganca%2C%20Republica%20Moldova.xlsinfo: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista eroilor inhumati in cimitirul de onoare romanesc de la Tiganca, Republica Moldova.xls, file count: 28.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista eroilor inhumati in cimitirul de onoare romanesc de la Tiganca, Republica Moldova.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mortilor%20de%20razboi%20romani%20inhumati%20la%20Cania%2C%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista mortilor de razboi romani inhumati la Cania, Republica Moldova.xls, file count: 29.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista mortilor de razboi romani inhumati la Cania, Republica Moldova.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20eroilor%20romani%20%C3%AEnhumati%20in%20cimitirul%20eroilor%20General%20Dragalina%20-%20Tighina%2C%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista eroilor romani înhumati in cimitirul eroilor General Dragalina - Tighina, Republica Moldova.xls, file count: 30.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista eroilor romani înhumati in cimitirul eroilor General Dragalina - Tighina, Republica Moldova.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Evidenta%20mortilor%20de%20razboi%20romani%20inhumati%20in%20Cimitirul%20de%20onoare%20din%20satul%20Micleuseni.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi romani inhumati in Cimitirul de onoare din satul Micleuseni.xls, file count: 31.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi romani inhumati in Cimitirul de onoare din satul Micleuseni.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mortilor%20de%20razboi%20inhumati%20la%20Neculaieuca%2C%20Morozeni%20si%20Mana.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista mortilor de razboi inhumati la Neculaieuca, Morozeni si Mana.xls, file count: 32.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista mortilor de razboi inhumati la Neculaieuca, Morozeni si Mana.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Evidenta%20mortilor%20de%20razboi%20romani%2C%20inhumati%20in%20Cimitirul%20de%20onoare%20din%20comuna%20Stoicani%2C%20raionul%20Soroca%2C%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi romani, inhumati in Cimitirul de onoare din comuna Stoicani, raionul Soroca, Republica Moldova.xls, file count: 33.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi romani, inhumati in Cimitirul de onoare din comuna Stoicani, raionul Soroca, Republica Moldova.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20Cimitirul%20eroilor%20din%20satul%20Nem%C5%A3eni%2C%20raionul%20H%C3%A2nce%C5%9Fti%2C%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, înhumati în Cimitirul eroilor din satul Nemteni, raionul Hâncesti, Republica Moldova.xls, file count: 34.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români, înhumati în Cimitirul eroilor din satul Nemteni, raionul Hâncesti, Republica Moldova.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20R%C4%83sc%C4%83ie%C5%A3i%2C%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista mortilor de razboi români, identificati nominal, înhumati în comuna Rascaieti, Republica Moldova.xls, file count: 35.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista mortilor de razboi români, identificati nominal, înhumati în comuna Rascaieti, Republica Moldova.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20Volo%C8%99cova%2C%20regiunea%20Cernauti%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în comuna Volo?cova, regiunea Cernauti, Ucraina.xls, file count: 36.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20Secureni%2C%20regiunea%20Cernauti%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în comuna Secureni, regiunea Cernauti, Ucraina.xls, file count: 37.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20pe%20raza%20ora%C8%99ului%20Hotin%2C%20regiunea%20Cern%C4%83u%C8%9Bi%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati pe raza ora?ului Hotin, regiunea Cernau?i, Ucraina.xls, file count: 38.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20Fe%C5%9Fterovo%2C%20raionul%20Razdelnianski%20regiunea%20Odessa%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în comuna Festerovo, raionul Razdelnianski regiunea Odessa, Ucraina.xls, file count: 39.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români, identificati nominal, înhumati în comuna Festerovo, raionul Razdelnianski regiunea Odessa, Ucraina.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Plinca%2C%20raionul%20Beliaevski%20regiunea%20Odessa%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în satul Plinca, raionul Beliaevski regiunea Odessa, Ucraina.xls, file count: 40.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români, identificati nominal, înhumati în satul Plinca, raionul Beliaevski regiunea Odessa, Ucraina.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20ora%C5%9Ful%20Beliaevka%2C%20regiunea%20Odessa%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în orasul Beliaevka, regiunea Odessa, Ucraina.xls, file count: 41.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români, identificati nominal, înhumati în orasul Beliaevka, regiunea Odessa, Ucraina.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20Vasilevka%2C%20regiunea%20Odessa%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista mortilor de razboi români, identificati nominal, înhumati în comuna Vasilevka, regiunea Odessa, Ucraina.xls, file count: 42.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista mortilor de razboi români, identificati nominal, înhumati în comuna Vasilevka, regiunea Odessa, Ucraina.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20Kremidovka%2C%20regiunea%20Odessa%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista mortilor de razboi români, identificati nominal, înhumati în comuna Kremidovka, regiunea Odessa, Ucraina.xls, file count: 43.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista mortilor de razboi români, identificati nominal, înhumati în comuna Kremidovka, regiunea Odessa, Ucraina.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20localitatea%20Schuli%2C%20%20Peninsula%20Crimeea.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în localitatea Schuli,  Peninsula Crimeea.xls, file count: 44.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români, identificati nominal, înhumati în localitatea Schuli,  Peninsula Crimeea.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Crocmaz%2C%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în satul Crocmaz, Republica Moldova.xls, file count: 45.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români, identificati nominal, înhumati în satul Crocmaz, Republica Moldova.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Uppa%2C%20Peninsula%20Crimeea.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în satul Uppa, Peninsula Crimeea.xls, file count: 46.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români, identificati nominal, înhumati în satul Uppa, Peninsula Crimeea.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20Klein%20Liebental%2C%20regiunea%20Odessa%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în comuna Klein Liebental, regiunea Odessa, Ucraina.xls, file count: 47.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români, identificati nominal, înhumati în comuna Klein Liebental, regiunea Odessa, Ucraina.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20Gross%20Liebental.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista mortilor de razboi români, identificati nominal, înhumati în comuna Gross Liebental.xls, file count: 48.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista mortilor de razboi români, identificati nominal, înhumati în comuna Gross Liebental.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20Kozlov%2C%20regiunea%20Vinni%C8%9Ba%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în comuna Kozlov, regiunea Vinni?a, Ucraina.xls, file count: 49.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satele%20Savinti%20si%20Vierhovka%2C%20regiunea%20Vinni%C8%9Ba%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în satele Savinti si Vierhovka, regiunea Vinni?a, Ucraina.xls, file count: 50.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20Berezeni%2C%20raionul%20Beliaevski%20regiunea%20Odessa%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români înhumati în comuna Berezeni, raionul Beliaevski regiunea Odessa, Ucraina.xls, file count: 51.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români înhumati în comuna Berezeni, raionul Beliaevski regiunea Odessa, Ucraina.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20comuna%20Malaia%20Belozerka%2C%20raionul%20Vasilevski%2C%20regiunea%20Zaporojie%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista mortilor de razboi români, identificati nominal, înhumati în comuna Malaia Belozerka, raionul Vasilevski, regiunea Zaporojie, Ucraina.xls, file count: 52.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista mortilor de razboi români, identificati nominal, înhumati în comuna Malaia Belozerka, raionul Vasilevski, regiunea Zaporojie, Ucraina.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20localit%C4%83%C5%A3ile%20Sudak%20%C5%9Fi%20Tarakta%C5%9F%20(raionul%20Sudakski%20Gorsovet%2C%20Crimeea)%2C%20%C3%AEn%20al%20Doilea%20R%C4%83zboi%20Mondial.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români înhumati în localitatile Sudak si Taraktas (raionul Sudakski Gorsovet, Crimeea), în al Doilea Razboi Mondial.xls, file count: 53.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români înhumati în localitatile Sudak si Taraktas (raionul Sudakski Gorsovet, Crimeea), în al Doilea Razboi Mondial.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20cimitirul%20comunei%20Mihailovka%2C%20regiunea%20Zaporojie%2C%20Ucraina..xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români înhumati în cimitirul comunei Mihailovka, regiunea Zaporojie, Ucraina..xls, file count: 54.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români înhumati în cimitirul comunei Mihailovka, regiunea Zaporojie, Ucraina..xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20Cimitirul%20eroilor%20din%20localitatea%20Bahcisarai%20(raionul%20Bahcisaraiski%2C%20Crimeea)%2C%20%C3%AEn%20al%20Doilea%20R%C4%83zboi%20Mondial.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români înhumati în Cimitirul eroilor din localitatea Bahcisarai (raionul Bahcisaraiski, Crimeea), în al Doilea Razboi Mondial.xls, file count: 55.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români înhumati în Cimitirul eroilor din localitatea Bahcisarai (raionul Bahcisaraiski, Crimeea), în al Doilea Razboi Mondial.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20Cimitirul%20eroilor%20din%20satul%20Bikeci%2C%20raionul%20Leninski%20Crimeea%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în Cimitirul eroilor din satul Bikeci, raionul Leninski Crimeea, Ucraina.xls, file count: 56.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români, identificati nominal, înhumati în Cimitirul eroilor din satul Bikeci, raionul Leninski Crimeea, Ucraina.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20localitatea%20Karlovka%2C%20raionul%20Kirovski%2C%20Crimeea%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în localitatea Karlovka, raionul Kirovski, Crimeea, Ucraina.xls, file count: 57.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români, identificati nominal, înhumati în localitatea Karlovka, raionul Kirovski, Crimeea, Ucraina.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Artelnoje%2C%20regiunea%20Harkov%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, înhumati în satul Artelnoje, regiunea Harkov, Ucraina.xls, file count: 58.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români, înhumati în satul Artelnoje, regiunea Harkov, Ucraina.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Freudental%2C%20regiunea%20Odessa%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români înhumati în satul Freudental, regiunea Odessa, Ucraina.xls, file count: 59.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români înhumati în satul Freudental, regiunea Odessa, Ucraina.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20satul%20Ojevo%2C%20regiunea%20Cern%C4%83u%C5%A3i%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români  înhumati în satul Ojevo, regiunea Cernauti, Ucraina.xls, file count: 60.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români  înhumati în satul Ojevo, regiunea Cernauti, Ucraina.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%20%C3%AEnhuma%C5%A3i%20pe%20teritoriul%20localit%C4%83%C5%A3ilor%20Spiridonovka%20%C5%9Fi%20Bujalik%2C%20regiunea%20Odessa%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români  înhumati pe teritoriul localitatilor Spiridonovka si Bujalik, regiunea Odessa, Ucraina.xls, file count: 61.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români  înhumati pe teritoriul localitatilor Spiridonovka si Bujalik, regiunea Odessa, Ucraina.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%C3%AEnhuma%C5%A3i%20pe%20teritoriul%20satului%20Leninthal%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista mortilor de razboi români înhumati pe teritoriul satului Leninthal, Ucraina.xls, file count: 62.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista mortilor de razboi români înhumati pe teritoriul satului Leninthal, Ucraina.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mortilor%20de%20razboi%20romani%20%C3%AEnhumati%20pe%20teritoriul%20comunei%20Vacarjani%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista mortilor de razboi romani înhumati pe teritoriul comunei Vacarjani, Ucraina.xls, file count: 63.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista mortilor de razboi romani înhumati pe teritoriul comunei Vacarjani, Ucraina.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Evidenta%20mortilor%20de%20razboi%20romani%2C%20inhumati%20in%20municipiul%20Cernauti%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi romani, inhumati in municipiul Cernauti, Ucraina.xls, file count: 64.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi romani, inhumati in municipiul Cernauti, Ucraina.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mortilor%20de%20razboi%20romani%20-%20Severinovka%2C%20raion%20Ivanovski%2C%20regiunea%20Odessa%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista mortilor de razboi romani - Severinovka, raion Ivanovski, regiunea Odessa, Ucraina.xls, file count: 65.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista mortilor de razboi romani - Severinovka, raion Ivanovski, regiunea Odessa, Ucraina.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mortilor%20de%20razboi%20-%20%20cimitirul%20eroilor%20din%20Stary%20Krim%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista mortilor de razboi -  cimitirul eroilor din Stary Krim, Ucraina.xls, file count: 66.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista mortilor de razboi -  cimitirul eroilor din Stary Krim, Ucraina.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Primul%20Razboi%20Mondial/2019_%20Petersthal%20(Ucraina).xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\2019_ Petersthal (Ucraina).xls, file count: 67.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file 2019_ Petersthal (Ucraina).xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mor%C8%9Bilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20%C3%AEnhuma%C8%9Bi%20pe%20teritoriul%20comunei%20Vigoda%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista mor?ilor de razboi români, înhuma?i pe teritoriul comunei Vigoda, Ucraina.xls, file count: 68.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista mor?ilor de razboi români, înhuma?i pe teritoriul comunei Vigoda, Ucraina.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20cimitirul%20comunei%20Akimovka%2C%20regiunea%20Zaporojie%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români  înhumati în cimitirul comunei Akimovka, regiunea Zaporojie, Ucraina.xls, file count: 69.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români  înhumati în cimitirul comunei Akimovka, regiunea Zaporojie, Ucraina.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20morti%20de%20razboi%20Rossoska%201999_2015_2016_2017_2018.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista morti de razboi Rossoska 1999_2015_2016_2017_2018.xls, file count: 70.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista morti de razboi Rossoska 1999_2015_2016_2017_2018.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20c%C4%83zu%C5%A3i%20%C3%AEn%20lupta%20de%20la%20Oarba%20de%20Mure%C5%9F%20.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, cazuti în lupta de la Oarba de Mures .xls, file count: 71.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români, identificati nominal, cazuti în lupta de la Oarba de Mures .xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mortilor%20de%20razboi%20romani%20-%20cimitirul%20eroilor%20din%20municipiul%20Targu%20Mures%2C%20judetul%20Mures.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista mortilor de razboi romani - cimitirul eroilor din municipiul Targu Mures, judetul Mures.xls, file count: 72.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista mortilor de razboi romani - cimitirul eroilor din municipiul Targu Mures, judetul Mures.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mortilor%20de%20razboi%20romani%20-%20cimitirul%20Rulikovski%2C%20judetul%20Bihor.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista mortilor de razboi romani - cimitirul Rulikovski, judetul Bihor.xls, file count: 73.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista mortilor de razboi romani - cimitirul Rulikovski, judetul Bihor.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mortilor%20de%20razboi%20romani%20-%20cimitirul%20Olosig%2C%20judetul%20Bihor.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista mortilor de razboi romani - cimitirul Olosig, judetul Bihor.xls, file count: 74.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista mortilor de razboi romani - cimitirul Olosig, judetul Bihor.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mortilor%20de%20razboi%20romani%20-%20Parcela%20eroilor%20din%20cimitirul%20Pomenirea%2C%20judetul%20Arad.xlsinfo: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista mortilor de razboi romani - Parcela eroilor din cimitirul Pomenirea, judetul Arad.xls, file count: 75.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista mortilor de razboi romani - Parcela eroilor din cimitirul Pomenirea, judetul Arad.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20mortilor%20de%20razboi%20romani%20-%20parcela%20eroilor%20romani%20din%20municipiul%20Carei%2C%20judetul%20Satu%20Mare.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista mortilor de razboi romani - parcela eroilor romani din municipiul Carei, judetul Satu Mare.xls, file count: 76.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista mortilor de razboi romani - parcela eroilor romani din municipiul Carei, judetul Satu Mare.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Lista%20militarilor%20romani%20-%20lagarul%20Karaganda%2C%20Kazahstan.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Lista militarilor romani - lagarul Karaganda, Kazahstan.xls, file count: 77.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Lista militarilor romani - lagarul Karaganda, Kazahstan.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Mor%C8%9Bi%20de%20r%C4%83zboi%20din%20Primul%20si%20Al%20Doilea%20R%C4%83zboi%20Mondial%2C%20%C3%AEnhuma%C8%9Bi%20%C3%AEn%20parcela%20de%20onoare%20din%20Cimitirul%20Central%20din%20municipiul%20Zal%C4%83u%2C%20jude%C8%9Bul%20S%C4%83laj%20(strada%20Florilor%2066).xlsx
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Mor?i de razboi din Primul si Al Doilea Razboi Mondial, înhuma?i în parcela de onoare din Cimitirul Central din municipiul Zalau, jude?ul Salaj (strada Florilor 66).xlsx, file count: 78.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/2018_Lista%20mortilor%20de%20razboi%20lagare%20NKVD.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\2018_Lista mortilor de razboi lagare NKVD.xls, file count: 79.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file 2018_Lista mortilor de razboi lagare NKVD.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20din%20al%20Doilea%20R%C4%83zboi%20Mondial%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20municipiul%20Odessa%2C%20Ucraina.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români din al Doilea Razboi Mondial, înhumati în municipiul Odessa, Ucraina.xls, file count: 80.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români din al Doilea Razboi Mondial, înhumati în municipiul Odessa, Ucraina.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20nominal%C4%83%20a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20germani%20%C5%9Fi%20sovietici%2Ccentraliza%C5%A3i%20%C3%AEn%20Cimitirul%20eroilor%20din%20ora%C5%9Ful%20Podu%20Iloaiei.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta nominala a mortilor de razboi români, germani si sovietici,centralizati în Cimitirul eroilor din orasul Podu Iloaiei.xls, file count: 81.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta nominala a mortilor de razboi români, germani si sovietici,centralizati în Cimitirul eroilor din orasul Podu Iloaiei.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20curtea%20bisericii%20din%20comuna%20Soci%2C%20judetul%20Ia%C5%9Fi.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români identificati nominal, înhumati în curtea bisericii din comuna Soci, judetul Iasi.xls, file count: 82.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/app/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20Cimitirul%20eroilor%20Bolovani%20din%20municipiul%20Ploie%C5%9Fti%2C%20%C3%AEn%20perioada%201941-1944.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, înhumati în Cimitirul eroilor Bolovani din municipiul Ploiesti, în perioada 1941-1944.xls, file count: 83.
+fail: ListaPrizonieriRazboi.WebCrawler[0]
+      Could not download file Evidenta mortilor de razboi români, înhumati în Cimitirul eroilor Bolovani din municipiul Ploiesti, în perioada 1941-1944.xls.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C5%A3a%20mor%C5%A3ilor%20de%20r%C4%83zboi%20rom%C3%A2ni%2C%20identifica%C5%A3i%20nominal%2C%20%C3%AEnhuma%C5%A3i%20%C3%AEn%20ora%C8%99ul%20H%C3%A2nce%C8%99ti%20(raion%20H%C3%A2nce%C8%99ti%2C%20Republica%20Moldova.xls
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Evidenta mortilor de razboi români, identificati nominal, înhumati în ora?ul Hânce?ti (raion Hânce?ti, Republica Moldova.xls, file count: 84.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      https://once.mapn.ro/webroot/fileslib/upload/files/Lista%20mortilor%20de%20razboi/Al%20Doilea%20Razboi%20Mondial/Eviden%C8%9Ba%20mor%C8%9Bilor%20de%20r%C4%83zboi%20%C3%AEnhuma%C8%9Bi%20%C3%AEn%20Cimitirul%20eroilor%20din%20municipiul%20Alba%20Iulia.xlsx
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Saving to disk C:\Projects\Practice\ListaPrizonieriRazboi\publish\publish\Files\Eviden?a mor?ilor de razboi înhuma?i în Cimitirul eroilor din municipiul Alba Iulia.xlsx, file count: 85.
+info: ListaPrizonieriRazboi.WebCrawler[0]
+      Completed downloading 86.
