@@ -8,7 +8,7 @@ public static class CosmosHandler {
     {
         _client = new CosmosClient(
             accountEndpoint: @"https://docdb4practice.documents.azure.com:443/", 
-            authKeyOrResourceToken: @"Q7j5N4dzBVHlPfJMWDqSb66zaWdlLOhBizzUQOvUt7rXhsYjSJk3HmMqF8slK8IZzkAvKFrJ6vkpACDbWBFNqw=="
+            authKeyOrResourceToken: @""
         );
     }
 
