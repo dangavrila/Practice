@@ -29,7 +29,6 @@ public class OrdersController: Controller{
                 result.Add(orderWithStatus);
             }
         }
-        result = orders.Select(o => OrderWithStatus.FromOrder(o)).ToList();
         return new OkObjectResult(result);
     }
 
