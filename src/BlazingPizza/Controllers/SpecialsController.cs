@@ -13,6 +13,8 @@ public class SpecialsController : Controller
     public SpecialsController(IDbContextFactory<PizzaStoreContext> db)
     {
         _dbContextFactory = db;
+        /*using var context = _dbContextFactory.CreateDbContext();
+        SeedData.Initialize(context);*/
     }
 
     [HttpGet]
