@@ -17,7 +17,6 @@ public class OrdersController: Controller{
     [HttpGet]
     public ActionResult<IEnumerable<OrderWithStatus>> GetOrders(){
         List<OrderWithStatus> result = new();
-        var orders = (IEnumerable<Order>) null;
         using (var context = _dbContextFactory.CreateDbContext()){
             var ordersQuery = context.Orders
             .Include(o => o.Pizzas).ThenInclude(o => o.Special)
@@ -52,5 +51,22 @@ public class OrdersController: Controller{
         }
 
         return order.OrderId;
+    }
+
+    [HttpGet("{orderId}")]
+    public async Task<ActionResult<OrderWithStatus>> GetOrderWithStatus(int orderId){
+        Order order = null;
+        using (var context = await _dbContextFactory.CreateDbContextAsync()){
+            order = await context.Orders.Where(o => o.OrderId == orderId)
+            .Include(o => o.Pizzas).ThenInclude(p => p.Special)
+            .Include(o => o.Pizzas).ThenInclude(p => p.Toppings).ThenInclude(t => t.Topping)
+            .SingleOrDefaultAsync();
+        }
+
+        if(order == null){
+            return NotFound();
+        }
+
+        return OrderWithStatus.FromOrder(order);
     }
 }
