@@ -12,6 +12,8 @@ namespace BlazingPizza
 
         public DateTime CreatedTime { get; set; }
 
+        public int? DeliveryAddressId { get; set; }
+
         public Address DeliveryAddress { get; set; } = new Address();
 
         public List<Pizza> Pizzas { get; set; } = new List<Pizza>();

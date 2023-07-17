@@ -16,5 +16,7 @@ namespace BlazingPizza
         public string Region { get; set; }
 
         public string PostalCode { get; set; }
+
+        public virtual ICollection<Order> Orders{ get; set; } = new List<Order>();
     }
 }

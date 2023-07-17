@@ -17,7 +17,7 @@ public class PizzaStoreContext : DbContext
     public virtual DbSet<Order> Orders {get;set;}
     public virtual DbSet<Pizza> Pizzas { get; set; }
     public virtual DbSet<Topping> Toppings {get;set;}
-
+    public virtual DbSet<Address> Addresses { get; set; }
     protected override void OnConfiguring(DbContextOptionsBuilder options)
         => options.UseSqlite($"Data Source={DbPath}");
 
@@ -38,5 +38,15 @@ public class PizzaStoreContext : DbContext
             .HasOne(pst => pst.Topping)
             .WithMany();
 
+        /*modelBuilder.Entity<Address>()
+            .HasMany(a => a.Orders)
+            .WithOne(o => o.DeliveryAddress)
+            .HasForeignKey(o => o.DeliveryAddressId);*/
+
+        modelBuilder.Entity<Order>()
+            .HasOne(o => o.DeliveryAddress)
+            .WithMany(da => da.Orders)
+            .HasForeignKey(o => o.DeliveryAddressId)
+            .IsRequired(false);
     }
 }
